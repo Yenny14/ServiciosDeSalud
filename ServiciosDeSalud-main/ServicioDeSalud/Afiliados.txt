@@ -1,0 +1,1 @@
+Usuario: mauricioCedula: 2020Sexo: hombreEdad: 21Telefono: 318Correo: mauricio@gmail.comContraseña: 123
